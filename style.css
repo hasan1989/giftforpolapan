@@ -44,15 +44,15 @@ body {
 }
 
 .namediv {
-font-weight: 600;
-  font-style: normal;
- color: aquamarine;
- font-size:15em;
- font-family: "Noto Serif Bengali", serif;
-  margin: 0;
-  position: absolute;
-  top: 50%;
-  transform: translateY(-50%);
+        font-weight: 600;
+        font-style: normal;
+        color: aquamarine;
+        font-size:15em;
+        font-family: "Noto Serif Bengali", serif;
+        margin: 0;
+        position: absolute;
+        top: 50%;
+        transform: translateY(-50%);
 }
 
 
